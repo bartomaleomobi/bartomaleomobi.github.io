@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+img{
+width:240px;
+height:300px;
+}
+body{
+background-image:url("https://images.alphacoders.com/211/thumb-1920-211271.jpg" ) ; 
+
+background-attachment: fixed;
+} 
+
+
+
+
